@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/functions.h
+string.h
+-
+
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+functions.h
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/functions.h
+

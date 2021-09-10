@@ -1,0 +1,3 @@
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/cmake-build-debug/CMakeFiles/Proj.dir
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lesson & Work/University/CE/Fundamentals of Computer and Programming/Homework/Final Project/Proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
